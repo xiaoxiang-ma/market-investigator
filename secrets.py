@@ -1,0 +1,1 @@
+alpha_vantage_API_token = '8464N2MBK8Y615MK'
